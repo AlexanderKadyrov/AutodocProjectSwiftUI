@@ -3,7 +3,7 @@
 Перевод тестового задания AutodocProject UIKit на SwiftUI
 
 ### Ссылка AutodocProject UIKit
-![](https://github.com/AlexanderKadyrov/AutodocProject
+https://github.com/AlexanderKadyrov/AutodocProject
 
 # Описание
 
